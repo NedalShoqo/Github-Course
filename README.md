@@ -1,1 +1,1 @@
-# Github-Course
+# Simple Interest Calculator
